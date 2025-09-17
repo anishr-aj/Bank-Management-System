@@ -1,7 +1,8 @@
+ChatGPT said:
 ✅ Account Management System
 
 A simple console-based bank account management system written in Java.
-Demonstrates OOP concepts (classes, encapsulation), use of collections, and basic banking operations: create account, deposit, withdraw, transfer, and list accounts.
+Demonstrates OOP concepts (classes, encapsulation), collections, and basic banking operations: create account, deposit, withdraw, transfer, and list accounts.
 
 ✨ Features
 
@@ -17,7 +18,7 @@ Demonstrates OOP concepts (classes, encapsulation), use of collections, and basi
 
 📋 Show all accounts stored in memory
 
-⚠️ Handles invalid numeric input to prevent crashes (InputMismatchException)
+⚠️ Graceful input handling to avoid crashes (InputMismatchException)
 
 🛠 Tech Stack
 
@@ -25,18 +26,19 @@ Demonstrates OOP concepts (classes, encapsulation), use of collections, and basi
 
 ⚙️ Runtime: Java 8+ (Java 11+ recommended)
 
-📦 Libraries: None (uses standard Java packages)
+📦 No external libraries — uses standard Java packages
 
 📁 Project Structure
 AccountManagementSystem.java   // contains Account, AccountManager and main class
 README.md
+output.png                
 
 
 ℹ️ All classes are bundled in one file for simplicity. You can split them into Account.java, AccountManager.java, and AccountManagementSystem.java later.
 
 ▶️ How to compile & run
 
-Open terminal/command prompt in the project folder and run:
+Open terminal/command prompt in project folder and run:
 
 # compile
 javac AccountManagementSystem.java
@@ -45,7 +47,7 @@ javac AccountManagementSystem.java
 java AccountManagementSystem
 
 
-If classes are split into separate files:
+If you split classes into separate files:
 
 javac *.java
 java AccountManagementSystem
@@ -62,7 +64,7 @@ jar cfe AccountManagementSystem.jar AccountManagementSystem *.class
 # run jar
 java -jar AccountManagementSystem.jar
 
-🧾 Usage example
+🧾 Usage example (sample session)
 ---- Account Management System ----
 1. Create Account
 2. Deposit
@@ -85,8 +87,12 @@ Deposited: 1500.0
 Enter your choice: 6
 Account No: A001 | Holder: Rahul Kumar | Balance: 6500.0
 
-Enter your choice: 7
 Exiting... Goodbye!
+
+
+### 🖼 Example output
+
+![Console output of AccountManagementSystem](output.png "Account Management System - sample run")
 
 ✅ Validation & error handling
 
@@ -118,7 +124,7 @@ Exiting... Goodbye!
 
 📝 License
 
-This project can be released under the MIT License (or choose any license you prefer). Add a LICENSE file if you want to include the full license text.
+This project can be released under the MIT License. Add a LICENSE file with the full license text if you choose MIT.
 
 👤 Author
 
