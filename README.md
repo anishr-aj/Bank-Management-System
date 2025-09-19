@@ -122,6 +122,8 @@ Exiting... Goodbye!
 *.log
 .DS_Store
 
+For full source code, you can mail me.
+
 📝 License
 
 This project can be released under the MIT License. Add a LICENSE file with the full license text if you choose MIT.
@@ -129,3 +131,4 @@ This project can be released under the MIT License. Add a LICENSE file with the 
 👤 Author
 
 Anish Raj
+
