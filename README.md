@@ -7,7 +7,7 @@ Demonstrates OOP concepts (classes, encapsulation), collections, and basic banki
 
 ➕ Create new accounts (account number, holder name, initial balance)
 
-💰 Deposit money to an account
+💰 Deposit money to an account, you can use multiple accounts.
 
 ➖ Withdraw money from an account (with basic validation)
 
@@ -130,5 +130,6 @@ This project can be released under the MIT License. Add a LICENSE file with the 
 👤 Author
 
 Anish Raj
+
 
 
