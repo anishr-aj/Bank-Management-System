@@ -1,4 +1,3 @@
-ChatGPT said:
 ✅ Account Management System
 
 A simple console-based bank account management system written in Java.
@@ -131,4 +130,5 @@ This project can be released under the MIT License. Add a LICENSE file with the 
 👤 Author
 
 Anish Raj
+
 
