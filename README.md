@@ -4,12 +4,11 @@ A simple console-based bank account management system written in Java.
 Demonstrates OOP concepts (classes, encapsulation), collections, and basic banking operations: create account, deposit, withdraw, transfer, and list accounts.
 
 ✨ Features
-
 ➕ Create new accounts (account number, holder name, initial balance)
 
 💰 Deposit money to an account, you can use multiple accounts.
 
-➖ Withdraw money from an account (with basic validation)
+➖ Withdraw money from an account (with basic validation) 
 
 🔁 Transfer money between accounts
 
@@ -130,6 +129,7 @@ This project can be released under the MIT License. Add a LICENSE file with the 
 👤 Author
 
 Anish Raj
+
 
 
 
