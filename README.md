@@ -12,7 +12,7 @@ Demonstrates OOP concepts (classes, encapsulation), collections, and basic banki
 🔍 Show a single account's details
 
 📋 Show all accounts stored in memory 
-
+ 
 ⚠️ Graceful input handling to avoid crashes (InputMismatchException)
 
 🛠 Tech Stack
@@ -126,6 +126,7 @@ This project can be released under the MIT License. Add a LICENSE file with the 
 👤 Author
 
 Anish Raj
+
 
 
 
