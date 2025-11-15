@@ -8,7 +8,7 @@ Demonstrates OOP concepts (classes, encapsulation), collections, and basic banki
 💰 Deposit money to an account, you can use multiple accounts.
 ➖ Withdraw money from an account (with basic validation) 
 🔁 Transfer money between accounts
-
+ 
 🔍 Show a single account's details
 
 📋 Show all accounts stored in memory  
@@ -126,6 +126,7 @@ This project can be released under the MIT License. Add a LICENSE file with the 
 👤 Author
 
 Anish Raj
+
 
 
 
